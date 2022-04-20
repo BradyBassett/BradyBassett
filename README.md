@@ -2,7 +2,7 @@
 
 ## I'm Brady Bassett, I am a passionate computer science student from DFW Texas.
 
-- 🔭 I'm currently working on imagetoascii.com and a package delivery route optimizer for school
+- 🔭 I'm currently working on version 3 of my portfolio website and a package delivery route optimizer for school
 - 🌱 I’m currently learning node.js and express.js
 - 💬 Feel free to ask me about anything 😁
 - 📫 How to reach me: email me at bradydbassett@gmail.com
