@@ -2,7 +2,7 @@
 
 ## I'm Brady Bassett, I am a passionate computer science student from DFW Texas.
 
-- 🔭 I'm currently working on version 3 of my portfolio website
+- 🔭 I'm currently working as a Software QA Engineer At Sabre
 - 🌱 I’m currently learning gatsby, c# and soapui
 - 💬 Feel free to ask me about anything 😁
 - 📫 How to reach me: email me at bradydbassett@gmail.com
