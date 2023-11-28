@@ -1,9 +1,9 @@
 ### Hi there, I'm Brady - [website] 👋
 
-## I'm Brady Bassett, I am a passionate computer science student from DFW Texas.
+## I'm Brady Bassett, I am a software engineer from DFW Texas.
 
-- 🔭 I'm currently working as a Software QA Engineer At Sabre
-- 🌱 I’m currently learning gatsby, c# and soapui
+- 🔭 I'm currently looking for work
+- 🌱 I’m currently learning next.js and express.js
 - 💬 Feel free to ask me about anything 😁
 - 📫 How to reach me: email me at bradydbassett@gmail.com
 - 😄 Pronouns: he/him
