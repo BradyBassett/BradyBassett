@@ -1,9 +1,9 @@
 ### Hi there, I'm Brady - [website] 👋
 
-## I'm Brady Bassett, I am a software engineer from DFW Texas.
+## I'm Brady Bassett, I am a software engineer located in DFW Texas.
 
 - 🔭 I'm currently looking for work
-- 🌱 I’m currently learning next.js and express.js
+- 🌱 I’m currently working on building a chess engine
 - 💬 Feel free to ask me about anything 😁
 - 📫 How to reach me: email me at bradydbassett@gmail.com
 - 😄 Pronouns: he/him
